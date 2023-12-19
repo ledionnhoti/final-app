@@ -2,5 +2,5 @@ pandas
 numpy
 pydeck
 streamlit
-matplotlib.pyplot
+matplotlib
 streamlit_option_menu
