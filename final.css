@@ -1,0 +1,116 @@
+.st-emotion-cache-fg4pbf{
+    position: absolute;
+    background: #dbedff;
+    color: rgb(49, 51, 63);
+    inset: 0px;
+    overflow: hidden;
+}
+
+h2 {
+    font-family: "Stencil Std", fantasy;
+    font-weight: 200;
+    color: rgb(49, 51, 63);
+    letter-spacing: -0.005em;
+    text-align: center;
+    margin: 0px;
+    line-height: 1.2;
+}
+h3 {
+    font-family: "Sans sarif"
+    font-weight: 130;
+    color: #0f0f6b;
+    letter-spacing: -0.005em;
+    text-align: center;
+    margin: 0px;
+    line-height: 1.2;
+}
+.st-emotion-cache-ue6h4q {
+    font-weight: 700;
+    color: #014990;
+    display: flex;
+    visibility: visible;
+    margin-bottom: 0.25rem;
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.st-emotion-cache-16idsys {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 50px;
+}
+.st-emotion-cache-a51556 {
+    border-bottom: 1px solid rgba(49, 51, 63, 0.1);
+    border-right: 1px solid rgba(49, 51, 63, 0.1);
+    vertical-align: middle;
+    horizontal-align: middle;
+    padding: 0.25rem 0.375rem;
+    font-weight: 700;
+    color: #014990;
+    text-align: right;
+}
+.st-emotion-cache-ue6h4q {
+    font-size: 50px;
+    color: #014990;
+    display: flex;
+    visibility: visible;
+    margin-bottom: 0.25rem;
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.st-emotion-cache-gdzsw5 {
+    border-bottom: 1px solid rgba(49, 51, 63, 0.1);
+    border-right: 1px solid rgba(49, 51, 63, 0.1);
+    vertical-align: middle;
+    horizontal-align: right;
+    text-align: right;
+    padding: 0.25rem 0.375rem;
+    font-weight: 400;
+}
+.st-be {
+    background-color: #ebedef;
+    color: black;
+}
+p {
+    display: center;
+    margin-block-start: 0em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: 700;
+}
+.st-emotion-cache-18ni7ap {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 2.875rem;
+    background: #2b8dff;
+    outline: none;
+    z-index: 999990;
+    display: block;
+}
+.st-e7 {
+    color: white;
+    background-color: #2b8dff;
+}
+.st-emotion-cache-16idsys p {
+    word-break: break-word;
+    margin-bottom: 0px;
+    font-size: 18px;
+}
+.st-ev {
+    color: black;
+    font-weight: 50;
+}
+.st-emotion-cache-1y4p8pa {
+    width: 100%;
+    padding: 6rem 1rem 10rem;
+    max-width: 50rem;
+}
