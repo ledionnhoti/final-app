@@ -1,0 +1,6 @@
+pandas
+numpy
+pydeck
+streamlit
+matplotlib.pyplot
+streamlit_option_menu
